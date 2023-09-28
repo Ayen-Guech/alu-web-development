@@ -7,7 +7,7 @@ header {
     display: flex;
     flex-direction: row;
     flex: auto;
-    background-image: url(.//images/background.png);
+    background-image: url(./assets/assets/images/background.png);
     padding: 2% 5% 2% 5%;
     filter: grayscale(100%);
     position: absolute;
