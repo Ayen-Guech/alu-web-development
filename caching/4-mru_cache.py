@@ -45,7 +45,6 @@ class MRUCache(BaseCaching):
             value = self.cache_data[key]
             self._remove(key)
             self._add(key, value)
-            return value       
-        
+            return value                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
 
         
